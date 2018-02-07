@@ -2,7 +2,7 @@
 
 ## In this tutorial, we setup our android app for RxJava and we build out our model. 
 
-### Check out the Youtube Tutorial for this [Kotlin Tutorial](https://youtu.be/fxgR46gWMd8).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Kotlin Tutorial](https://youtu.be/OxHgLAA_MdA).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
